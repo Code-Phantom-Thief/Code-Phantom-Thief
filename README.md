@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Code Phantom Thief</h1>
+<h1 align="center">Hi 👋, I'm Code The Phantom Thief</h1>
 <h3 align="center">A passionate fullstack developer from Japan</h3>
 
 - 🔭 I’m currently working on **MERN STACK PROJECT**
